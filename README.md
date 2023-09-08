@@ -30,4 +30,5 @@ Before running the code, make sure you have the following installed:
 - Pandas (for data handling)
 
 You can install these dependencies using `pip`:
+print(pip install tensorflow keras opencv-python matplotlib numpy pandas)
 
